@@ -10,7 +10,7 @@ const experiences = [
     location: "Remote – Uruguay",
     period: "Jun 2025 – Present",
     description:
-      "QA Functional in a software factory environment, with experience across healthcare, web, iOS, Android, and tablet-based applications. Currently testing a web platform integrated with two connected mobile applications across phones and tablets.",
+      "QA Functional and Automation in a software factory environment, with experience across healthcare, web, iOS, Android, and tablet-based applications. Currently testing a web platform integrated with two connected mobile applications across phones and tablets.",
     responsibilities: [
       "Analyze user stories, acceptance criteria, and business rules to define testing scope",
       "Execute smoke, regression, integration, API, mobile, tablet, and responsiveness testing",
