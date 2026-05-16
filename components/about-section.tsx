@@ -26,10 +26,16 @@ export function AboutSection() {
           transition={{ duration: 0.6, delay: 0.2 }}
         >
           <p className="text-pretty">
-            QA Functional / QA Automation professional with experience testing web, mobile, Android, iOS, and tablet applications in international agile environments. Strong background in acceptance criteria analysis, defect reporting, exploratory testing, API testing, regression, smoke, integration, database validation, mobile responsiveness, and basic accessibility testing.
+            QA Functional / QA Automation professional with experience testing web, mobile, Android, iOS, and tablet applications in international agile environments.
+          </p>
+          <p className="text-pretty">
+            I apply solid QA technical knowledge to validate business-critical workflows, translating acceptance criteria into test scenarios, identifying risk areas, covering edge cases, and verifying behavior across UI, APIs, integrations, databases, responsiveness, and basic accessibility.
+          </p>
+          <p className="text-pretty">
+            I combine functional testing expertise with Playwright, TypeScript, Cursor, MCP tools, and AI-assisted workflows to improve test coverage, maintain automated tests, support requirement analysis, create clearer bug reports, and assist basic debugging when needed.
           </p>
           <p className="text-foreground font-medium text-pretty">
-            I use Playwright, TypeScript, JavaScript, Cursor, MCP tools, and AI-assisted workflows to enhance my QA work through requirement analysis, acceptance criteria review, test coverage generation, scenario design, bug reporting, and assisted test execution. I maintain and update automated test cases as features evolve, flows change, or selectors require adjustments, always combining AI support with human validation to improve coverage, speed, and QA efficiency.
+            My approach is based on risk, business impact, and human validation, using automation and AI to deliver faster, clearer, and more reliable QA results.
           </p>
         </motion.div>
       </div>
