@@ -31,8 +31,8 @@ const defectExamples = [
   },
   {
     category: "Integration",
-    title: "Cross-Platform Sync",
-    description: "Integration issues between connected web and mobile applications causing data inconsistencies.",
+    title: "Offline Sync Data Loss",
+    description: "Identified a critical issue in an iPad application designed for offline and online use, where temporary connection loss during file upload and sync caused locally captured data, including photos, to be lost instead of being safely preserved for retry.",
   },
 ]
 
