@@ -29,7 +29,7 @@ export function AboutSection() {
             QA Functional / QA Automation professional with experience testing web, mobile, Android, iOS, and tablet applications in international agile environments. Strong background in acceptance criteria analysis, defect reporting, exploratory testing, API testing, regression, smoke, integration, database validation, mobile responsiveness, and basic accessibility testing.
           </p>
           <p className="text-foreground font-medium text-pretty">
-            I use Playwright, TypeScript, JavaScript, Cursor, MCP tools, and AI-assisted workflows in my daily QA work to automate repetitive testing activities, maintain automated test cases, support analysis, improve bug reporting, and increase QA efficiency.
+            I use Playwright, TypeScript, JavaScript, Cursor, MCP tools, and AI-assisted workflows to enhance my QA work through requirement analysis, acceptance criteria review, test coverage generation, scenario design, bug reporting, and assisted test execution. I maintain and update automated test cases as features evolve, flows change, or selectors require adjustments, always combining AI support with human validation to improve coverage, speed, and QA efficiency.
           </p>
         </motion.div>
       </div>
