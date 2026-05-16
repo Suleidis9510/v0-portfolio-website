@@ -10,6 +10,7 @@ const tools = [
   "TypeScript",
   "JavaScript",
   "Azure DevOps",
+  "Jira",
   "Redmine",
   "Postman",
   "Swagger",

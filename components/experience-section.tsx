@@ -6,7 +6,7 @@ import { MapPin, Calendar, Building2 } from "lucide-react"
 const experiences = [
   {
     company: "DualBoot Partners",
-    role: "QA Functional",
+    role: "QA Functional & Automation",
     location: "Remote – Uruguay",
     period: "Jun 2025 – Present",
     description:
