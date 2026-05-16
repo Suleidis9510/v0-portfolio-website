@@ -3,6 +3,12 @@
 import { motion } from "framer-motion"
 
 const tools = [
+  "Cursor",
+  "MCP Tools",
+  "AI-Assisted QA",
+  "Playwright",
+  "TypeScript",
+  "JavaScript",
   "Azure DevOps",
   "Redmine",
   "Postman",
@@ -15,9 +21,6 @@ const tools = [
   "Excel",
   "Slack",
   "Google Chat",
-  "Playwright",
-  "JavaScript",
-  "TypeScript",
 ]
 
 const containerVariants = {

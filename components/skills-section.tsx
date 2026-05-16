@@ -32,10 +32,26 @@ const skillCategories = [
     title: "Automation",
     skills: [
       "Playwright",
-      "JavaScript",
       "TypeScript",
+      "JavaScript",
       "Automated Test Maintenance",
+      "Smoke Automation",
+      "Regression Automation",
+      "Nightly Test Runs",
       "Repetitive Flow Automation",
+    ],
+  },
+  {
+    title: "AI-Assisted QA",
+    skills: [
+      "Cursor",
+      "MCP Tools",
+      "AI-Assisted QA",
+      "AI for Test Analysis",
+      "AI for Bug Reporting",
+      "AI for Test Case Maintenance",
+      "AI for Documentation",
+      "AI for Repetitive QA Workflows",
     ],
   },
   {

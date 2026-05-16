@@ -61,7 +61,7 @@ export function HeroSection() {
             transition={{ delay: 0.2, duration: 0.5 }}
           >
             <span className="w-2 h-2 bg-primary rounded-full animate-pulse" />
-            Web • Mobile • API • Database • Automation
+            Web • Mobile • API • Database • Automation • AI
           </motion.div>
 
           {/* Name */}
@@ -81,7 +81,7 @@ export function HeroSection() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4, duration: 0.6 }}
           >
-            QA Functional  |  Manual QA  |  QA Automation in Progress
+            QA Functional  |  QA Automation  |  AI-Assisted Testing
           </motion.p>
 
           {/* Headline */}
@@ -91,7 +91,7 @@ export function HeroSection() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.5, duration: 0.6 }}
           >
-            I help teams deliver reliable digital products through functional testing, risk analysis, API validation, and automation practices.
+            I help teams deliver reliable digital products through functional testing, API validation, automation, and AI-assisted QA workflows.
           </motion.p>
 
           {/* CTAs */}

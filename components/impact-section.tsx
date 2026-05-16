@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { Shield, FileText, Brain, Users, Cog } from "lucide-react"
+import { Shield, FileText, Brain, Users, Cog, Bot, Wrench } from "lucide-react"
 
 const impactItems = [
   {
@@ -29,10 +29,22 @@ const impactItems = [
       "Support pair testing and QA knowledge-sharing sessions to reduce knowledge silos.",
   },
   {
-    icon: Cog,
-    title: "Automation Mindset",
+    icon: Bot,
+    title: "AI-Assisted QA Workflows",
     description:
-      "Identify repetitive flows suitable for automation and contribute to automated test set maintenance.",
+      "Use Cursor, MCP tools, and AI to support test analysis, bug reporting, documentation, and repetitive QA activities.",
+  },
+  {
+    icon: Wrench,
+    title: "Automation Maintenance",
+    description:
+      "Maintain and update automated test cases used for smoke, regression, recurring validation, and repetitive QA workflows.",
+  },
+  {
+    icon: Cog,
+    title: "Functional + Automation Mindset",
+    description:
+      "Combine strong functional testing criteria with automation to validate critical flows, reduce repetitive manual work, and improve delivery confidence.",
   },
 ]
 

@@ -26,13 +26,10 @@ export function AboutSection() {
           transition={{ duration: 0.6, delay: 0.2 }}
         >
           <p className="text-pretty">
-            QA Functional / Manual QA with experience testing web, mobile, Android, iOS, and tablet applications in international agile environments. Strong background in acceptance criteria analysis, defect reporting, exploratory testing, API testing, regression, smoke, integration, database validation, mobile responsiveness, and basic accessibility testing.
-          </p>
-          <p className="text-pretty">
-            Experienced in identifying high-impact defects, validating complex business flows, improving QA documentation, and supporting team alignment through pair testing and knowledge-sharing sessions.
+            QA Functional / QA Automation professional with experience testing web, mobile, Android, iOS, and tablet applications in international agile environments. Strong background in acceptance criteria analysis, defect reporting, exploratory testing, API testing, regression, smoke, integration, database validation, mobile responsiveness, and basic accessibility testing.
           </p>
           <p className="text-foreground font-medium text-pretty">
-            Currently growing as QA Automation with Playwright, JavaScript, and TypeScript, combining functional testing expertise with automation practices to improve product quality, test coverage, and delivery confidence.
+            I use Playwright, TypeScript, JavaScript, Cursor, MCP tools, and AI-assisted workflows in my daily QA work to automate repetitive testing activities, maintain automated test cases, support analysis, improve bug reporting, and increase QA efficiency.
           </p>
         </motion.div>
       </div>
